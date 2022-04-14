@@ -1,0 +1,66 @@
+/* TAGS */
+h3 {
+  font-weight: 600 !important;
+}
+
+u {
+  text-decoration-thickness: 1px;
+}
+
+/* CLASSES */
+
+.App {
+  text-align: center;
+}
+
+.logo {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  bottom: 2px;
+}
+
+.navbar-link-left {
+  margin: auto;
+  font-size: 18px;
+  margin-right: 200px;
+}
+
+.navbar-link-right {
+  margin: auto;
+  font-size: 18px;
+  margin-left: 195px;
+}
+
+.left {
+  float: left;
+  margin-left: 2%;
+  width: 45%;
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+.right {
+  float: right;
+  margin-right: 2%;
+  width: 45%;
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+.contact-form {
+  float: left;
+  width: 47%;
+  margin-left: 2%;
+}
+
+.submit-btn {
+  margin-top: 5px;
+}
+
+.contact-info {
+  float: right;
+  width: 47%;
+  margin-right: 2%;
+  text-align: center;
+}
